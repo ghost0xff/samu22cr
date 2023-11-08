@@ -2,7 +2,7 @@
 
 - 42 years of experience in COBOL programming
 - 33 years of experience in LISP academic writting
-- HTMX only web enthusiast
+- HTMX only enthusiast
 - VIM chad user
 - Arch btw
 - Simplicity over complexity advocate (sometimes)
