@@ -7,3 +7,4 @@
 - Arch btw
 - Simplicity over complexity advocate (sometimes)
 - I want to understand memory and cpu at the lowest level possible
+- CSS as a backend language supporter
