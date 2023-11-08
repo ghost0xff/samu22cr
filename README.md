@@ -1,4 +1,4 @@
-### Hi
+### Hi ☝
 
 I want to break down all the abstractions that modern development
 involvers and understand low-level stuff
