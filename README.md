@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi
+
+I want to break down all the abstractions that modern development
+involvers and understand low-level stuff
 
 <!--
 **samu22cr/samu22cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
