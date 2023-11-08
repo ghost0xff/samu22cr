@@ -1,4 +1,4 @@
-### ...
+### Super secret hacker
 
 - 42 years of experience in COBOL programming
 - 33 years of experience in LISP academic writting
